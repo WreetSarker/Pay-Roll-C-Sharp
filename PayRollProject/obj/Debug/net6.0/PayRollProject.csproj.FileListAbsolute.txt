@@ -1,0 +1,15 @@
+C:\projects\c#Projects\PayRollProject\PayRollProject\bin\Debug\net6.0\PayRollProject.exe
+C:\projects\c#Projects\PayRollProject\PayRollProject\bin\Debug\net6.0\PayRollProject.deps.json
+C:\projects\c#Projects\PayRollProject\PayRollProject\bin\Debug\net6.0\PayRollProject.runtimeconfig.json
+C:\projects\c#Projects\PayRollProject\PayRollProject\bin\Debug\net6.0\PayRollProject.dll
+C:\projects\c#Projects\PayRollProject\PayRollProject\bin\Debug\net6.0\PayRollProject.pdb
+C:\projects\c#Projects\PayRollProject\PayRollProject\obj\Debug\net6.0\PayRollProject.csproj.AssemblyReference.cache
+C:\projects\c#Projects\PayRollProject\PayRollProject\obj\Debug\net6.0\PayRollProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\c#Projects\PayRollProject\PayRollProject\obj\Debug\net6.0\PayRollProject.AssemblyInfoInputs.cache
+C:\projects\c#Projects\PayRollProject\PayRollProject\obj\Debug\net6.0\PayRollProject.AssemblyInfo.cs
+C:\projects\c#Projects\PayRollProject\PayRollProject\obj\Debug\net6.0\PayRollProject.csproj.CoreCompileInputs.cache
+C:\projects\c#Projects\PayRollProject\PayRollProject\obj\Debug\net6.0\PayRollProject.dll
+C:\projects\c#Projects\PayRollProject\PayRollProject\obj\Debug\net6.0\refint\PayRollProject.dll
+C:\projects\c#Projects\PayRollProject\PayRollProject\obj\Debug\net6.0\PayRollProject.pdb
+C:\projects\c#Projects\PayRollProject\PayRollProject\obj\Debug\net6.0\PayRollProject.genruntimeconfig.cache
+C:\projects\c#Projects\PayRollProject\PayRollProject\obj\Debug\net6.0\ref\PayRollProject.dll
